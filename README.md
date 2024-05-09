@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanchan Varma</h1>
 <h3 align="center">A passionate "Versatile Tech Enthusiast: Cybersecurity | Frontend | Backend | Full Stack+MERN" from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvdevlopment&label=Profile%20views&color=0e75b6&style=flat" alt="kvdevlopment" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvdevlopment" alt="kvdevlopment" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvdevlopment&label=Profile%20views&color=0e75b6&style=flat" alt="kvdevlopment" /> </p>
 
 - 🔭 I’m currently working on **Web development**
 
